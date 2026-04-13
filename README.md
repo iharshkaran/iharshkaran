@@ -1,18 +1,11 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=5&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
 
 <h3 align="left">Hello there 👋</h3>
-
-###
 
 <p align="left">I'm Harsh — a CSE Student learning DSA and building Full Stack projects.</p>
 
 ###
 
-<h4 align="left">About me</h4>
+<h4 align="left">🚀 About me</h4>
 
 ###
 
@@ -20,7 +13,7 @@
 
 ###
 
-<h4 align="left">I code with</h4>
+<h4 align="left">🛠️ Tech Stack</h4>
 
 ###
 
