@@ -2,21 +2,21 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=5&section=header&reversal=true&fontSize=70&fontColor=FF0000&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
-<h3 align="left">Hello there 👋</h3>
+<h3 align="left">Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></h3>
 
-<p align="left">I'm Harsh — a CSE student learning full stack development and DSA while building real-world projects.</p>
-
-###
-
-<h4 align="left">About me</h4>
+I'm Harsh, a CSE student learning full stack development and DSA while building real-world projects.
 
 ###
 
-<p align="left">✨ Learning and building every day  <br>📚 Practicing DSA and exploring full stack development  <br>⚡ Getting better one day at a time</p>
+<h4 align="left">A Bit About Me</h4>
+
+- ✨ Learning and building every day
+- 📚 Practicing DSA and exploring full stack development
+- ⚡ Getting better one day at a time
 
 ###
 
-<h4 align="left">I code with</h4>
+<h4 align="left">Tools & Tech</h4>
 
 ###
 
