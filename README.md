@@ -1,11 +1,14 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=5&section=header&reversal=true&fontSize=70&fontColor=FF0000&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
 
 <h3 align="left">Hello there 👋</h3>
 
-<p align="left">I'm Harsh — a CSE Student learning DSA and building Full Stack projects.</p>
+<p align="left">I'm Harsh — a CSE student learning full stack development and DSA while building real-world projects.</p>
 
 ###
 
-<h4 align="left">🚀 About me</h4>
+<h4 align="left">About me</h4>
 
 ###
 
@@ -13,7 +16,7 @@
 
 ###
 
-<h4 align="left">🛠️ Tech Stack</h4>
+<h4 align="left">I code with</h4>
 
 ###
 
@@ -48,7 +51,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
 ###
