@@ -1,7 +1,3 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=5&section=header&reversal=true&fontSize=70&fontColor=FF0000&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
-
 <h3 align="left">Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></h3>
 
 I'm Harsh, a CSE student learning full stack development and DSA while building real-world projects.
