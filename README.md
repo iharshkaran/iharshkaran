@@ -10,9 +10,9 @@ I'm Harsh, a CSE student learning full stack development and DSA while building 
 
 <h4 align="left">A Bit About Me</h4>
 
-- ✨ Learning and building every day
-- 📚 Practicing DSA and exploring full stack development
-- ⚡ Getting better one day at a time
+- `✨ Learning and building every day`
+- `📚 Practicing DSA and exploring full stack development`
+- `⚡ Getting better one day at a time`
 
 ###
 
@@ -47,11 +47,3 @@ I'm Harsh, a CSE student learning full stack development and DSA while building 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
-
-###
